@@ -1,0 +1,17 @@
+.footer {
+    height: 5em;
+    margin-top:  2em;
+    padding:  1em;
+    background-color: #ffa500;
+    color: #000000;
+    font-size: 80%;
+
+}
+
+.datepicker {
+    z-index: 10000;
+}
+
+.redText {
+    color: red;
+}
